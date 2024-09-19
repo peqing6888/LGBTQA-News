@@ -1,0 +1,2 @@
+# LGBTQA-News
+LGBTQA+ News
