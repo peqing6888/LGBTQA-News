@@ -1,0 +1,11 @@
+/Users/a1-6/Dev/LGBTQA-News/lgbtqa-news/target/debug/deps/libpest_generator-dc5c8d7e9097e73e.rmeta: /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/lib.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/macros.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/docs.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/generator.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/parse_derive.rs
+
+/Users/a1-6/Dev/LGBTQA-News/lgbtqa-news/target/debug/deps/libpest_generator-dc5c8d7e9097e73e.rlib: /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/lib.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/macros.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/docs.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/generator.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/parse_derive.rs
+
+/Users/a1-6/Dev/LGBTQA-News/lgbtqa-news/target/debug/deps/pest_generator-dc5c8d7e9097e73e.d: /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/lib.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/macros.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/docs.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/generator.rs /Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/parse_derive.rs
+
+/Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/lib.rs:
+/Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/macros.rs:
+/Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/docs.rs:
+/Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/generator.rs:
+/Users/a1-6/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.12/src/parse_derive.rs:
